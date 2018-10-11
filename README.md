@@ -1,5 +1,5 @@
 # t9062
-Telaire T9602 - Humidity &amp; Temperature Sensor - python example for RPi 3/3b+
+Telaire T9602 - i2c based Humidity and Temperature Sensor - python example for RPi 3/3b+
 
 **target machine:**
 
@@ -15,5 +15,7 @@ https://www.amphenol-sensors.com/en/component/edocman/304-telaire-t9602-humidity
 
 The T9062 offers the most advanced and cost effective humidity and temperature sensing solution for virtually any type of application.
 Based on our own capacitive polymer sensor chip and a CMOS integrated circuit with EEPROM are integrated into an easy mount OEM package.
+
+Use at your own risk, no warranties, implied or guarenteed.
 
 **hybrid connection diagram:**
